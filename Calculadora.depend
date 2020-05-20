@@ -1,0 +1,243 @@
+# depslib dependency file v1.0
+1562178815 source:c:\users\joao_\downloads\calculadora\main.cpp
+	<Pilha.h>
+	<iostream>
+	<string>
+
+1562178849 c:\users\joao_\downloads\calculadora\include\pilha.h
+	"Node.h"
+	<cstdlib>
+	<iostream>
+
+1562178879 c:\users\joao_\downloads\calculadora\include\node.h
+
+1562178887 source:c:\users\joao_\downloads\calculadora\src\node.cpp
+	"Node.h"
+
+1562178967 source:c:\users\joao_\downloads\calculadora\src\pilha.cpp
+	"pilha.h"
+
+1562178887 source:c:\users\dez\desktop\calculadora (1)\calculadora\src\node.cpp
+	"Node.h"
+
+1562178879 c:\users\dez\desktop\calculadora (1)\calculadora\include\node.h
+
+1562189313 source:c:\users\dez\desktop\calculadora (1)\calculadora\src\pilha.cpp
+	"pilha.h"
+
+1562189313 c:\users\dez\desktop\calculadora (1)\calculadora\include\pilha.h
+	"Node.h"
+	<cstdlib>
+	<iostream>
+
+1562189662 source:c:\users\dez\desktop\calculadora (1)\calculadora\main.cpp
+	<Pilha.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+
+1562614123 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\src\node.cpp
+	"Node.h"
+
+1562613671 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\include\node.h
+	<cstdlib>
+	<iostream>
+
+1562357345 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\src\pilha.cpp
+	"pilha.h"
+	<cstdlib>
+	<iostream>
+
+1562612418 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\include\pilha.h
+	"Node.h"
+	<cstdlib>
+	<iostream>
+
+1562619324 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\main.cpp
+	<Pilha.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<DPilha.h>
+	<math.h>
+
+1562614396 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\src\dnode.cpp
+	"DNode.h"
+
+1562615209 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\include\dnode.h
+
+1562619335 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\src\dpilha.cpp
+	"DPilha.h"
+	<cstdlib>
+	<iostream>
+
+1562619324 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\include\dpilha.h
+	"doubleNode.h"
+
+1562615670 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\include\doublenode.h
+
+1562615558 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\calculadora (1)\calculadora\src\doublenode.cpp
+	"doubleNode.h"
+
+1562615558 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\polonesa\calculadora\src\doublenode.cpp
+	"doubleNode.h"
+
+1562615670 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\polonesa\calculadora\include\doublenode.h
+
+1562619335 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\polonesa\calculadora\src\dpilha.cpp
+	"DPilha.h"
+	<cstdlib>
+	<iostream>
+
+1562619324 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\polonesa\calculadora\include\dpilha.h
+	"doubleNode.h"
+
+1562614123 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\polonesa\calculadora\src\node.cpp
+	"Node.h"
+
+1562613671 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\polonesa\calculadora\include\node.h
+	<cstdlib>
+	<iostream>
+
+1562357345 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\polonesa\calculadora\src\pilha.cpp
+	"pilha.h"
+	<cstdlib>
+	<iostream>
+
+1562612418 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\polonesa\calculadora\include\pilha.h
+	"Node.h"
+	<cstdlib>
+	<iostream>
+
+1563473489 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\polonesa\calculadora\main.cpp
+	<Pilha.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<DPilha.h>
+	<math.h>
+	<ctype.h>
+
+1562615558 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\trabalhos\polonesa\calculadora\src\doublenode.cpp
+	"doubleNode.h"
+
+1562615670 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\trabalhos\polonesa\calculadora\include\doublenode.h
+
+1562614123 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\trabalhos\polonesa\calculadora\src\node.cpp
+	"Node.h"
+
+1562613671 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\trabalhos\polonesa\calculadora\include\node.h
+	<cstdlib>
+	<iostream>
+
+1563475942 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\trabalhos\polonesa\calculadora\src\dpilha.cpp
+	"DPilha.h"
+	<cstdlib>
+	<iostream>
+
+1562619324 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\trabalhos\polonesa\calculadora\include\dpilha.h
+	"doubleNode.h"
+
+1563475946 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\trabalhos\polonesa\calculadora\src\pilha.cpp
+	"pilha.h"
+	<cstdlib>
+	<iostream>
+
+1562612418 c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\trabalhos\polonesa\calculadora\include\pilha.h
+	"Node.h"
+	<cstdlib>
+	<iostream>
+
+1565623440 source:c:\users\dez\desktop\unioeste\ciencia da computa«√o\2∫ ano\estrutura de dados\trabalhos\polonesa\calculadora\main.cpp
+	<Pilha.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<DPilha.h>
+	<math.h>
+	<ctype.h>
+
+1562615558 source:c:\users\gabriel\desktop\trabalho ed\polonesa\calculadora\src\doublenode.cpp
+	"doubleNode.h"
+
+1562615670 c:\users\gabriel\desktop\trabalho ed\polonesa\calculadora\include\doublenode.h
+
+1566240320 source:c:\users\gabriel\desktop\trabalho ed\polonesa\calculadora\src\dpilha.cpp
+	"DPilha.h"
+	<cstdlib>
+	<iostream>
+
+1562619324 c:\users\gabriel\desktop\trabalho ed\polonesa\calculadora\include\dpilha.h
+	"doubleNode.h"
+
+1562614123 source:c:\users\gabriel\desktop\trabalho ed\polonesa\calculadora\src\node.cpp
+	"Node.h"
+
+1562613671 c:\users\gabriel\desktop\trabalho ed\polonesa\calculadora\include\node.h
+	<cstdlib>
+	<iostream>
+
+1566242174 source:c:\users\gabriel\desktop\trabalho ed\polonesa\calculadora\src\pilha.cpp
+	"pilha.h"
+	<cstdlib>
+	<iostream>
+
+1566242074 c:\users\gabriel\desktop\trabalho ed\polonesa\calculadora\include\pilha.h
+	"Node.h"
+	<cstdlib>
+	<iostream>
+
+1566343182 source:c:\users\gabriel\desktop\trabalho ed\polonesa\calculadora\main.cpp
+	<Pilha.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<DPilha.h>
+	<math.h>
+	<ctype.h>
+
+1566514033 source:c:\users\dez\desktop\polonesa\polonesa\calculadora\main.cpp
+	<Pilha.h>
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<DPilha.h>
+	<math.h>
+	<ctype.h>
+
+1566242074 c:\users\dez\desktop\polonesa\polonesa\calculadora\include\pilha.h
+	"Node.h"
+	<cstdlib>
+	<iostream>
+
+1562613671 c:\users\dez\desktop\polonesa\polonesa\calculadora\include\node.h
+	<cstdlib>
+	<iostream>
+
+1562619324 c:\users\dez\desktop\polonesa\polonesa\calculadora\include\dpilha.h
+	"doubleNode.h"
+
+1562615670 c:\users\dez\desktop\polonesa\polonesa\calculadora\include\doublenode.h
+
+1562615558 source:c:\users\dez\desktop\polonesa\polonesa\calculadora\src\doublenode.cpp
+	"doubleNode.h"
+
+1566240320 source:c:\users\dez\desktop\polonesa\polonesa\calculadora\src\dpilha.cpp
+	"DPilha.h"
+	<cstdlib>
+	<iostream>
+
+1562614123 source:c:\users\dez\desktop\polonesa\polonesa\calculadora\src\node.cpp
+	"Node.h"
+
+1566242174 source:c:\users\dez\desktop\polonesa\polonesa\calculadora\src\pilha.cpp
+	"pilha.h"
+	<cstdlib>
+	<iostream>
+
